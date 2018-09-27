@@ -7,7 +7,7 @@
 		</div>
 	</div>
 	<div id="container">
-		<form method="post" action="LoginCheck">
+		<form method="post" action="CheckLogin">
 			<table>
 				<tr>
 					<td>User Name</td>
